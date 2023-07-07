@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "name": "John Hughes",
+  "movies": [
+    {
+      "id": 3,
+      "title": "Sixteen Candles",
+      "genre": "Rom Com",
+      "year": 1984,
+      "theaters": [],
+      "director": null
+    }
+  ]
+}

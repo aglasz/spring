@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "Malco",
+  "featuredMovies": [
+    {
+      "id": 1,
+      "title": "Titanic",
+      "genre": "Historical Drama",
+      "year": 1997,
+      "theaters": [],
+      "director": null
+    }
+  ]
+}
